@@ -24,7 +24,7 @@ int main(){
   cin >> row;
 
   // Ask the player for a column
-  cout << "Choose a column number between 0 and 3: ";
+  cout << "Choose a column no. between 0 and 3: ";
   cin >> column;
 
   // Check if a ship exists in those coordinates
