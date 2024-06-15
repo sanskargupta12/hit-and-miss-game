@@ -20,7 +20,7 @@ int main(){
   cout << "Selecting coordinates\n";
 
   // Ask the player for a row
-  cout << "Choose a row number between 0 and 3: ";
+  cout << "Choose a row no. between 0 and 3: ";
   cin >> row;
 
   // Ask the player for a column
