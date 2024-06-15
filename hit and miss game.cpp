@@ -47,6 +47,6 @@ int main(){
 }
 
 cout << "Victory!\n";
-cout << "You won in " << numberOfTurns << " turns";
+cout << "You won in ' << numberOfTurns << ' turns";
 
 }
